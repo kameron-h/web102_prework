@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/dLHAWxi.gif' title='WEB 102 Pre-Work Video Walkthrough - Kameron Harrison' width='' alt='WEB 102 Pre-Work Video Walkthrough - Kameron Harrison' />
+<img src='https://imgur.com/nl29xsJ.gif' title='WEB 102 Pre-Work Video Walkthrough - Kameron Harrison' width='' alt='WEB 102 Pre-Work Video Walkthrough - Kameron Harrison' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://www.loom.com/ and https://cloudconvert.com/mp4-to-gif 
