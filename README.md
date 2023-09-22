@@ -39,7 +39,7 @@ The most challenging part of this project was implementing features for the "Our
 
 ## License
 
-    Copyright 2004 Apache Software Foundation
+    Copyright 2023 Kameron H.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
